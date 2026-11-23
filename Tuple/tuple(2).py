@@ -1,0 +1,23 @@
+# t1=(1,2,3)
+# print(t1)
+# print(t1[0])
+
+# t1=(1,2,3,4,5,6)
+# t2=(5,6,7,8,2,3)
+# print(t1*3)
+# print(t1[2])
+# print(t1[0:3])
+# print(t1 in t2)
+lang= ("java","python","c++","c")
+n=[1,2,3,6,5,77,5,5,5,5,5]
+# for i in lang:
+#     print(i)
+# print(len(lang))
+# print(max(lang))
+# print(min(lang))
+# print(sum(n))
+# print(type(n))
+# print(tuple(n))
+print(sorted(lang))
+print(sorted(n))
+print(n.count(5))
