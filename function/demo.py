@@ -5,24 +5,24 @@
 # def number(num ):
 #     n3=num+1
 #     print(n3)
-# number(5) 
+# number(8) 
  
 # def student(name,age):
 #     print(name)
 #     print(age)
-# student("Ajay",20)
+# student("raj",19)
 
 
 # def add(num1,num2):
 #     num3=num1+num2
 #     return num3
-# result=add(30,50)
+# result=add(40,70)
 # print( "number:",result)
 
 # def div(D1,D2):
 #     D3=D1%D2
 #     return D3
-# result=div(50,20)
+# result=div(50,30)
 # print(result)
 
 # def sub(n1,n2,n3):
@@ -30,6 +30,13 @@
 #     return n4
 # result=sub(100,30,40)
 # print(result)
+
+def student(math_marks,sci_marks):
+    return math_marks,sci_marks
+mark=student(60,74)
+print(mark)
+
+    
 
 
 
@@ -52,9 +59,9 @@
 
 # r=operator(50,20)
 
-num=0
-while num<100:
-    print(num)
-    num=num+1
+# num=0
+# while num<100:
+#     print(num)
+#     num=num+1
 
 
